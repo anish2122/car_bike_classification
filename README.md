@@ -44,4 +44,4 @@ See output:
 Click -> classify
 
 
-![](media/output carvsbike.png)
+![(media/output carvsbike.png)](media/output carvsbike.png)
